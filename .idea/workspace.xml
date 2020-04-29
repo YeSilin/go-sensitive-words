@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c57ace2-c9c1-4279-8c3c-f93af9e3246a" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1bDIPn7J65PrnsAuPRsBUUwJHcx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\Golang\go-sensitive-words\tools" />
+      <recent name="E:\Code\Golang\go-sensitive-words\examples" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/YeSilin/go-sensitive-words/examples" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-sensitive-words" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/examples/main.go" />
+      <package value="github.com/YeSilin/go-sensitive-words/examples" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/YeSilin/go-sensitive-words/examples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1091" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588164663413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1091" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588164663413" />
+    <state width="1248" height="274" key="GridCell.Tab.0.bottom" timestamp="1588171997727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588171997727" />
+    <state width="1248" height="274" key="GridCell.Tab.0.center" timestamp="1588171997727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588171997727" />
+    <state width="1248" height="274" key="GridCell.Tab.0.left" timestamp="1588171997727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588171997727" />
+    <state width="1248" height="274" key="GridCell.Tab.0.right" timestamp="1588171997727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588171997727" />
+    <state x="679" y="197" key="SettingsEditor" timestamp="1588160260845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="197" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588160260845" />
+  </component>
+</project>

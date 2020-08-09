@@ -19,6 +19,9 @@ func main() {
 	// 有的是用 or 分割，先全部转成换行
 	str := strings.ReplaceAll(string(data), "|", "\n")
 
+	// 有的用#号分割的，也全部转成换行
+	str = strings.ReplaceAll(str, "#", "\n")
+
 	// 统一换行符
 	str = strings.ReplaceAll(str, "\r\n", "\n")
 
@@ -37,4 +40,5 @@ func main() {
 	// 保存两份不同的数据
 	tools.SaveFile(strSlice, "listLn.txt", "\n")
 	tools.SaveFile(strSlice, "listOr.txt", "|")
+	tools.SaveFile(strSlice, "listWell.txt", "#")
 }

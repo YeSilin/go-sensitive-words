@@ -41,4 +41,6 @@ func main() {
 	tools.SaveFile(strSlice, "listLn.txt", "\n")
 	tools.SaveFile(strSlice, "listOr.txt", "|")
 	tools.SaveFile(strSlice, "listWell.txt", "#")
+
+	fmt.Println("更新成功！~")
 }

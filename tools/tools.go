@@ -52,12 +52,14 @@ func CreateFile(path, data string) (err error) {
 	return
 }
 
-// 切片删除所有空元素
+// 切片删除所有空元素，与前后空格
 // 这里利用一个index，记录应该下一个有效元素应该在的位置，遍历所有元素，当遇到有效元素，index加一，否则不加，
 // 最终index的位置就是所有有效元素的下一个位置。最后做一个截取就行了。这种方法会对原来的slice进行修改
 func DeleteSlice(s []string) []string {
 	j := 0
 	for _, val := range s {
+		// 先删掉前后空格
+		val = strings.TrimSpace(val)
 		if val != "" {
 			// 该元素有效，覆盖写入
 			s[j] = val

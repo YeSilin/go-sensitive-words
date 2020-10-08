@@ -4,9 +4,12 @@
     <list default="true" id="6c57ace2-c9c1-4279-8c3c-f93af9e3246a" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/original.txt" beforeDir="false" afterPath="$PROJECT_DIR$/examples/original.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listLn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/listLn.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listOr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/listOr.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listWell.txt" beforeDir="false" afterPath="$PROJECT_DIR$/listWell.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/tools.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/tools.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,21 +93,21 @@
     <proxy>https://goproxy.io</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1128" height="243" key="GridCell.Tab.0.bottom" timestamp="1599928493513">
+    <state width="1128" height="232" key="GridCell.Tab.0.bottom" timestamp="1602169979418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1128" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599928493513" />
-    <state width="1128" height="243" key="GridCell.Tab.0.center" timestamp="1599928493513">
+    <state width="1128" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602169979418" />
+    <state width="1128" height="232" key="GridCell.Tab.0.center" timestamp="1602169979418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1128" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599928493513" />
-    <state width="1128" height="243" key="GridCell.Tab.0.left" timestamp="1599928493513">
+    <state width="1128" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602169979418" />
+    <state width="1128" height="232" key="GridCell.Tab.0.left" timestamp="1602169979418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1128" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599928493513" />
-    <state width="1128" height="243" key="GridCell.Tab.0.right" timestamp="1599928493513">
+    <state width="1128" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602169979418" />
+    <state width="1128" height="232" key="GridCell.Tab.0.right" timestamp="1602169979418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1128" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599928493513" />
+    <state width="1128" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602169979418" />
   </component>
 </project>
